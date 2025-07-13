@@ -34,6 +34,26 @@ A powerful Flutter mobile application for document scanning and barcode reading 
 
 *Add your app screenshots here*
 
+## Download
+
+### 📱 Get the App
+
+You can download the latest version of DocuLens directly from our GitHub releases:
+
+**[📥 Download Latest Release](https://github.com/Chairil13/Doculens-App/releases/latest)**
+
+#### Available Downloads:
+- **APK File**: Ready-to-install Android package
+- **Source Code**: Complete project source for developers
+
+#### Installation Steps:
+1. Download the APK file from the releases page
+2. Enable "Install from Unknown Sources" in your Android settings
+3. Open the downloaded APK file and follow the installation prompts
+4. Grant necessary permissions (Camera, Storage) when prompted
+
+> **Note**: The app requires Android 5.0 (API level 21) or higher
+
 ## Installation
 
 ### Prerequisites
