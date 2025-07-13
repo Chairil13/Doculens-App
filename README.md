@@ -33,37 +33,51 @@ A powerful Flutter mobile application for document scanning and barcode reading 
 ## Screenshots
 
 ### 🏠 Home Screen
+<div align="center">
 <img src="features/home.jpg" alt="Home Screen" width="300">
+</div>
 
 *Main dashboard with document scanning and barcode scanning options*
 
 ### 📄 Document Scanning Process
+<div align="center">
 <img src="features/scan.jpg" alt="Document Scanning" width="300">
+</div>
 
 *Smart document scanner with automatic detection and capture*
 
 ### ✨ Scan Results
+<div align="center">
 <img src="features/hasil scan.jpg" alt="Scan Results" width="300">
+</div>
 
 *Enhanced document image with cleaning and optimization*
 
 ### 🔤 Text Extraction
+<div align="center">
 <img src="features/ekstrak teks.jpg" alt="Text Extraction" width="300">
+</div>
 
 *OCR text recognition from scanned documents*
 
 ### 📱 Barcode Scanner
+<div align="center">
 <img src="features/barcode.jpg" alt="Barcode Scanner" width="300">
+</div>
 
 *Real-time barcode scanning with camera*
 
 ### 📋 Document List
+<div align="center">
 <img src="features/list dokumen.jpg" alt="Document List" width="300">
+</div>
 
 *Browse and manage saved documents by category*
 
 ### 📖 Document Details
+<div align="center">
 <img src="features/detail dokumen.jpg" alt="Document Details" width="300">
+</div>
 
 *View detailed information and manage individual documents*
 
